@@ -1,4 +1,4 @@
-#Etwist
+##Etwist
 Simple Twitter-esque Social Webpage
 
 This is a project made for my college. It was abaout making a Social Nework webpage using Laravel as BackEnd and Reactjs as Front End. The result is a look similar to the one from Twitter, using similar shapes and colors.
