@@ -1,7 +1,7 @@
 # Etwist
  Simple Twitter-esque Social Webpage
  
- This is a project made in my first year of college. It was abaout making a Social Nework webpage using Laravel as BackEnd and Reactjs as Front End.
+ This is a project made in my first year of college. It was about making a Social Nework webpage using Laravel as BackEnd and Reactjs as Front End.
  The result is a look similar to the one from Twitter, using similar shapes and colors.
  
  This project lets the user connect to a MySQL Database and create Users, Profiles, Posts.
@@ -51,5 +51,6 @@ This project takes huge inspiration from Twitter design, using similar colors to
 * User information page
  ![User information page](https://user-images.githubusercontent.com/68369543/171981771-647e6a55-1399-42d5-b02d-0d05551d55f7.png) 
 
-
+* Update user information page
+ ![Captura de pantalla 2022-06-03 214111](https://user-images.githubusercontent.com/68369543/171981875-d267fc0d-7699-4f11-99f4-ebf515d0d05b.png)
 
