@@ -33,17 +33,23 @@ This project takes huge inspiration from Twitter design, using similar colors to
 
 ##Screenshots
 
-* ![Login page](https://user-images.githubusercontent.com/68369543/171981569-d999caa8-1c1e-428e-9fb3-b32919a69c1f.png)
+* Login page
+ ![Login page](https://user-images.githubusercontent.com/68369543/171981569-d999caa8-1c1e-428e-9fb3-b32919a69c1f.png)
 
-* ![Sign up page](https://user-images.githubusercontent.com/68369543/171981579-b5baefc8-6b83-40c1-9f1f-bda63f66551f.png)
+* Sign up page
+ ![Sign up page](https://user-images.githubusercontent.com/68369543/171981579-b5baefc8-6b83-40c1-9f1f-bda63f66551f.png)
 
-* ![Home page](https://user-images.githubusercontent.com/68369543/171981620-f7499fdf-7a5d-4848-a250-8625c7d9e266.png)
+* Home page
+ ![Home page](https://user-images.githubusercontent.com/68369543/171981620-f7499fdf-7a5d-4848-a250-8625c7d9e266.png)
 
-* ![Post page](https://user-images.githubusercontent.com/68369543/171981700-09757a21-abc4-4656-9741-c2638d0149f0.png)
+* Post page 
+ ![Post page](https://user-images.githubusercontent.com/68369543/171981700-09757a21-abc4-4656-9741-c2638d0149f0.png)
 
-* ![Users search results page](https://user-images.githubusercontent.com/68369543/171981754-610d4709-382e-45b1-80c8-5c8cff728f2d.png)
+* Users search results page
+ ![Users search results page](https://user-images.githubusercontent.com/68369543/171981754-610d4709-382e-45b1-80c8-5c8cff728f2d.png)
 
-* ![User information page](https://user-images.githubusercontent.com/68369543/171981771-647e6a55-1399-42d5-b02d-0d05551d55f7.png) 
+* User information page
+ ![User information page](https://user-images.githubusercontent.com/68369543/171981771-647e6a55-1399-42d5-b02d-0d05551d55f7.png) 
 
 
 
