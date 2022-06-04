@@ -31,7 +31,7 @@
 
 This project takes huge inspiration from Twitter design, using similar colors to its dark theme.
 
-##Screenshots
+## Screenshots
 
 * Login page
  ![Login page](https://user-images.githubusercontent.com/68369543/171981569-d999caa8-1c1e-428e-9fb3-b32919a69c1f.png)
