@@ -1,7 +1,7 @@
 # Etwist
  Simple Twitter-esque Social Webpage
  
- This is a project made in my first year of college. It was about making a Social Nework webpage using Laravel as BackEnd and Reactjs as Front End.
+ This is a project made in our first year of college. It was about making a Social Nework webpage using Laravel as BackEnd and Reactjs as Front End.
  The result is a look similar to the one from Twitter, using similar shapes and colors.
  
  This project lets the user connect to a MySQL Database and create Users, Profiles, Posts.
